@@ -1,0 +1,14 @@
+{
+    "include": ["src"],
+    "compilerOptions": {
+        "outDir": "dist",
+        "allowJs": true,
+        "strictNullChecks": true,
+        "noImplicitThis": true,
+        "declaration": true,
+        "target": "es2019",
+        "module": "esnext",
+        "moduleResolution": "Node",
+        "skipLibCheck": true
+    }
+}
